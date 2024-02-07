@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rummalasitetest/static/css/main.c17d40f7.css",
-    "main.js": "/rummalasitetest/static/js/main.6df24a16.js",
+    "main.js": "/rummalasitetest/static/js/main.fcecbc2c.js",
     "static/media/Clients-Background.png": "/rummalasitetest/static/media/Clients-Background.6ab4a5b883ab5c4a8775.png",
     "static/media/manufacturing.png": "/rummalasitetest/static/media/manufacturing.ffb728fa7eee6c458491.png",
     "static/media/engineering.jpg": "/rummalasitetest/static/media/engineering.ee59651ea914081f9adf.jpg",
@@ -26,10 +26,10 @@
     "static/media/CDI_Logo.jpg": "/rummalasitetest/static/media/CDI_Logo.8a6e21009e967e372c17.jpg",
     "index.html": "/rummalasitetest/index.html",
     "main.c17d40f7.css.map": "/rummalasitetest/static/css/main.c17d40f7.css.map",
-    "main.6df24a16.js.map": "/rummalasitetest/static/js/main.6df24a16.js.map"
+    "main.fcecbc2c.js.map": "/rummalasitetest/static/js/main.fcecbc2c.js.map"
   },
   "entrypoints": [
     "static/css/main.c17d40f7.css",
-    "static/js/main.6df24a16.js"
+    "static/js/main.fcecbc2c.js"
   ]
 }
